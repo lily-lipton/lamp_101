@@ -1,5 +1,5 @@
 # MySQLのデータディレクトリを除外
-mysql/
+/mysql/
 
 # macOSのシステムファイルを除外
 .DS_Store
